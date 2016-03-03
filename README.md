@@ -1,12 +1,12 @@
 ## NavyPOST
 
-* A clone of Redit which allows users to share news & ideas organized by categories. Users can also vote posts by like & dislike buttons.
+* A clone of reddit which allows users to share news & ideas organized by categories. Users can also vote posts by like & dislike buttons.
 * A practice project for [Tealeaf Academy](https://launchschool.com/courses) Course 2: `Rapid Prototyping with Ruby on Rails`.
 * Site: https://navypost.herokuapp.com/
 
 ### Screen Shots
 
-![Screen Shot - NavyPOST](https://lh3.googleusercontent.com/UQJ5LXD1CFmW7i4mSlpYNAIsL9Kjv1fuJPiNaXSIoJl9Nh2uEIJDt-9K5mbQYkjNdFNfGHL4eCffK6TBfLcVwPybam3hxyc5f2qmfym52-3fVDBWndUUeIkJjBlncZY1IZ95iiCc0t06LIEggIcj6kmtE3CFNzVPn6TvOc2iTXUFAotJM6Rit3KmDdJhlH3jaDI4BwV_3cFXR17SAwhGUaLZpUaHvYRiaIDIWmvz3tc1J-PYpSYdQFjKIjXL7FYKPr4KKT03HHXys0gNs-pOPfmaPg6NtK1m6XKiXP8IIJ_QuVYXFY6y_QUfoU5kaivoYwcewt_l7res3N6rS4U11wvvrzDxwOir9jT-pKd49So0Kwbl_fRPa_rpQxgpAOXSNhqmU3rfxsjz4F5fLYzVbVe3qp31krjYnWsUPHSFFMaEHstZw81Y-cea3geoAGOgk5D6Ni6Czq-eQAkTxfDoqFQ-OLid9hmWvyTzGDOkTELcsz8RftvIDOMcR1bYgQhzlqrZMiraeO_lG44YU3_ieuaXo8ogwSD1R-2km9Iow84qMHnFHFfxC_wHFnjJqovnEwDwQw=w922-h599-no)
+<img src="https://lh3.googleusercontent.com/NdWX_aSoZmTFlo54dZr5hKrUiBhOHnKneunbs4fI0JAIDze8X6_8CXJL5eyz_Io3qdxrhlopk-BNkvoV22B5IiLGvsMxHTKyyY_bcGVrAR6r8yr7Hn0yw0EHBTQFSq2putBPcTA3ugosP_h9rlYPx0rl6ZG3IpSikklNfkDP2apcabBgLHFCZwc47FnVwuauOIYQ6HyZXsOJkKpuO6B03omrY-yx5m8h0MvmXVrpPioYyFRQMNtGDDZyCNp4AatMTPZfCKlGj382TQRj4IQLuhBaVseMsTZB3_SVvj6f03nvR8GPPMhZO2pF7fc9I4aEnEWWje7lHfQpKFvMgV5A9cH-ggWQWlwi2QDfKO1oiV6JtkYaN8iE226YVrsbW6voJ3m2SdWcjVn6BTOq3J01DTqEqEmt_wLRV-Ia7N4uSv53uEa9QDQu0jvVIrYAD7DSPG_5kqE-AwquLhvp4PYwAW8FjAcllBQvW5DKgOMLnfPQs6vo3juDWaNs0QBO4fFbe7N5hzqWnsH6Bn93195GO6SvCe4APhCBf0zxT6swz_c2E7CkjPurq5tKGwNjkI_mSdMtZw=w933-h599-no" width="800">
 
 ### Features
 
